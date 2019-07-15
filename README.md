@@ -1,15 +1,10 @@
-### Date created
-Include the date you created this project and README file.
+### July 2019
 
-### Project Title
-Replace the Project Title
+### Udacity Chapter on Intro to Git and GitHub
 
-### Description
-Describe what your project is about and what it does
+### Udacity Chapter on Intro to Git and GitHub features learning the basics of version control
 
-### Files used
-Include the files used
+### Clone of the Udacity GitHubRepo
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Credits: Udacity
 
